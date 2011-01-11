@@ -1,0 +1,53 @@
+h2. To-Do
+
+h1. Jump Into jQuery
+
+h2. Objectives
+
+Through this tutorial you'll learn and practice the most fundamental skills for working with jQuery.  We'll study the following "jQuery standards:":http://devstandard.com/topic/jquery
+
+# Library & Code Management
+## Loading jQuery from a local file
+## Loading jQuery from a remote host
+## Writing code within the document
+## Writing code in an external file
+# Events
+## Responding to the page load event
+## Responding to mouse-driven actions
+### hover
+### click
+## Using timers to trigger actions
+### one-time
+### interval
+# Selecting DOM Elements
+## Basic CSS-Style Selectors
+### selecting by ID
+### selecting by class
+### selecting by element type
+### combining element type, class, and id
+## CSS-based Filters
+### :first and :last virtual attributes
+
+
+h2. Outline
+
+# Introduction
+## Why use jQuery?
+## Alternatives & when NOT to use it
+# Tutorials
+## Hello, jQuery
+## Bill of Rights
+## Tasker
+# Assessment
+# Wrapup
+
+h2. Tutorial
+
+EXTERNAL::tutorial_hello_jquery.textile
+EXTERNAL::tutorial_bill_of_rights.textile
+EXTERNAL::tutorial_tasker.textile
+
+h2. Assessment
+
+EXTERNAL::wrapup.textile
+
