@@ -43,3 +43,50 @@ h2. Outline
 
 h2. Tutorial
 
+EXTERNAL::tutorial_hello_jquery.textile
+EXTERNAL::tutorial_bill_of_rights.textile
+EXTERNAL::tutorial_tasker.textile
+
+h2. Assessment
+
+h2. Wrapup
+
+JavaScript has long been regarded as a black art.  jQuery makes it easy -- maybe even too easy.  You've learned how to load the library, how to manipulate and augment existing content, and how to mimic application-like behavior all in the browser.  Along the way, jQuery has hidden the issues like browser discrepancies and given you a straight-forward interface.
+
+Hopefully this is your gateway drug.  JavaScript is going to play a huge part in the next decade of the web.  Learning frameworks like jQuery is great, but there'll be some new hotness in a year or two.  Push yourself to learn both the core language and play with some of the amazing tools.  Here are some of our favorites that should be on your radar:
+
+h3. Technologies
+
+h4. Coffeescript
+
+If you have a background in a modern dynamic language like Smalltalk, Ruby, or Python you're going to get excited about Coffeescript.  It's a JavaScript "metalanguage".  You write Coffeescript code and it gets "compiled" to plain old JavaScript.  What's the point, then?  Coffeescript makes advanced techniques easier but wraps them with a beautiful syntax.
+
+When you write CoffeeScript you're really writing JavaScript, which means your code runs on any browser, it can interact with other JavaScript libraries, and loses no speed.  It's like a great secret -- no one has to know that you've left the challenging JS syntax behind.
+
+h4. Node.js
+
+Writing the Tasker app was fun, but we need to persist our data.  Node.js takes the power and speed of JavaScript and puts in on the *server* side.  It's blazingly fast and can do some amazing things with Websockets, callbacks, and other interaction techniques.  Javascript on the server and the client -- it makes a lot of sense.
+
+Node is still in it's early days and resources are slim / quickly outdated.  One we recommend is "Geoff Grosenbach's PeepCode screencast available at http://peeepcode.com":http://peepcode.com. 
+
+h4. Backbone.js
+
+Pushing JavaScript onto the server is awesome -- but it's still JavaScript.  Should we just write one big .js file that handles everything? Nah! Most web developers are already familiar with a Model-View-Controller (MVC) framework like Rails, Django, or CakePHP.  Just because we're writing JS doesn't mean we should discard that expertise.
+
+Backbone.js, started by some of the same authors as CoffeeScript, is an MVC framework for server-side JavaScript.  It's amazing, but again there are few resources. TODO: insert some resources/links for backbone
+
+h4. Zepto.js
+
+So you want to develop for mobile devices but want to stick with HTML, CSS, and JS?  Check out Zepto.js.  It's a super-lightweight library that delivers a jQuery-like syntax for mobile browsers.
+
+Couldn't you just use jQuery? Yes, but Zepto is about one-tenth of the download size.  So many of jQuery's kilobytes are spent dealing with browser discrepancies that don't apply to the mobile world.  Cut down your list of target browsers and you can miniaturize the library.  Learn more about Zepto.js at TODO: insert Zepto homepage link and fact-check description.
+
+h4. MongoDB
+
+MongoDB has surged to the forefront of the NoSQL movement.  Did you know if works with Javascript natively?  There is some really cool potential combining all the technologies listed here with Mongo at the data layer to have a unified JavaScript web stack.  Learn more at TODO: mongo link, anything else to say?
+
+h3. Books
+
+h3. On the Web
+
+
