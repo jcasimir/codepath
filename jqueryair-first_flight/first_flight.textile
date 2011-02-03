@@ -25,10 +25,9 @@ h2. Outline
         * true and false
         * evaluating to true and false
           * Outside of proper true and false, javascript can evaluate many values into a true or false result.
-          * For example, 
-          * false is false
-          * 0 is false
-          * anything else is true
+          * For example, any number other than zero evaluates to true. Any string that's not empty is true. Any function, object, or array, even if they're empty, evaluate to true.
+          * On the other side, there are several things that evaluate to false.  0 is false as is the empty string "". There are three special values that all evaluate to false: null, undefined, and NaN.
+          * Overall these are sensible, the only one that might trip you up is that an empty array, [], is true!
     * Logical Operators
       * ==
       * !=
