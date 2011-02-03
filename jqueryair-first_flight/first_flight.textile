@@ -7,6 +7,39 @@ h2. Outline
 # Fuel Up
   * Why Use jQuery
   * Just Enough JavaScript
+    * What JavaScript Looks Like
+      * Lines end in ;
+      * Blocks start with { and end with }
+    * Creating variables
+    * If/Else Conditions
+    * Calling Methods
+      * Method calls always use ()
+      * Methods always return a value
+      * Methods can be chained
+    * Grouping Instructions
+      * Functions are written like function(params){code}  <-- Necessary?
+    * Simple data types
+      * Strings
+      * Integers
+      * Booleans
+        * true and false
+        * evaluating to true and false
+          * Outside of proper true and false, javascript can evaluate many values into a true or false result.
+          * For example, 
+          * false is false
+          * 0 is false
+          * anything else is true
+    * Logical Operators
+      * ==
+      * !=
+      * ||
+      * &&
+    * Helpful Functions
+      * alert()
+      * parseInt()
+      
+      
+    
   * Loading jQuery in a Browser
   * How to use this tutorial
   # Take Off with Selectors
