@@ -1,0 +1,44 @@
+h1. jQuery Air - First Flight
+
+The First Flight tutorial is designed to be a gentle introduction to the why and how of basic jQuery usage.  It's intended for developers who are familiar with some programming language, but not JavaScript.  While we'll cover a bit of JS, the emphasis of the tutorial is to stay in the easy sandbox of jQuery.  We assume a working knowledge of CSS including basic IDs, Classes, and simple attributes.
+
+h2. Outline
+
+# Fuel Up
+  #* Why Use jQuery
+  #* Just Enough JavaScript
+  #* Loading jQuery in a Browser
+  #* How to use this tutorial
+  # Take Off with Selectors
+  #* Why we need selectors
+  #* Selecting by ID
+  #* Selecting by Class
+  #* Matching Sets vs Individual Elements
+  #* _Selective Seating Part 1_
+  #* Matching Multiples
+  #* Using CSS3 Attributes
+  #* _Selective Seating Part 2_
+  #* Adding Logic
+  #* _Selective Seating Part 3_
+  #* Review
+# View From 30,000 Feet
+  #* Manipulating CSS
+  #* Using the shortcut commands (border, etc?)
+  #* _Mapping Part 1_
+  
+
+
+h2. Labs
+
+  h3. Lab 1: Selective Seating
+    h4. Part 1: Simple Matching with IDs and Classes
+    h4. Part 2: Using CSS3 Attributes
+    h4. Part 3: Adding Logical Operators
+  h3. Lab 2: Mapping
+    h4. Part 1: 
+    
+  
+h2. To-Dos
+
+h2. Script
+
