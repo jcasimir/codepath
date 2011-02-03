@@ -5,28 +5,99 @@ The First Flight tutorial is designed to be a gentle introduction to the why and
 h2. Outline
 
 # Fuel Up
-  #* Why Use jQuery
-  #* Just Enough JavaScript
-  #* Loading jQuery in a Browser
-  #* How to use this tutorial
+  * Why Use jQuery
+  * Just Enough JavaScript
+  * Loading jQuery in a Browser
+  * How to use this tutorial
   # Take Off with Selectors
-  #* Why we need selectors
-  #* Selecting by ID
-  #* Selecting by Class
-  #* Matching Sets vs Individual Elements
-  #* _Selective Seating Part 1_
-  #* Matching Multiples
-  #* Using CSS3 Attributes
-  #* _Selective Seating Part 2_
-  #* Adding Logic
-  #* _Selective Seating Part 3_
-  #* Review
+  * Why we need selectors
+  * Selecting by ID
+  * Selecting by Class
+  * Matching Sets vs Individual Elements
+  * _Selective Seating Part 1_
+  * Matching Multiples
+  * Using CSS3 Attributes
+  * _Selective Seating Part 2_
+  * Adding Logic
+  * _Selective Seating Part 3_
+  * Review
 # View From 30,000 Feet
-  #* Manipulating CSS
-  #* Using the shortcut commands (border, etc?)
-  #* _Mapping Part 1_
-  
-
+  * Manipulating CSS    
+  * Reading existing attributes
+    * css() query
+    * css() setter
+  * _Mapping Part 1_
+  * Setting multiple attributes
+  * Using the shortcut commands (border, etc?)
+  * _Mapping Part 2_
+  * Being Smart about CSS
+  * Manipulating Classes
+    * add_class()
+    * remove_class()
+    * toggle_class()
+  * _Mapping Part 3_
+  * Hiding and Showing
+    * hide()
+    * show()
+    * toggle()
+  * _Mapping Part 4_
+  * Review
+# Changing Plans
+  * Why Manipulate the DOM
+  * Understanding the DOM Tree
+  * Reading Existing Content
+    * text
+    * html
+  * _In Case of Emergency Part 1_
+  * Inserting Content
+    * text(new content)
+    * html(new content)
+    * prepend and prepend_to
+    * append and append_to
+  * _In Case of Emergency Part 2_    
+  * Removing Content
+    * remove()
+    * remove with matcher parameters
+  * Rearranging Content
+  * _In Case of Emergency Part 3_
+  * Pulling External Content AJAX-style
+  * _In Case of Emergency Part 4_
+  * Review
+# Weather Happens
+  * Introducing Events
+  * Environmental Events
+    * Page Load
+    * Time Duration
+    * Time Interval
+    * ?
+  * User-Generated Events
+    * Mouse Down
+    * Mouse Up
+    * Click
+    * Mouseover
+    * Key Down
+    * Key Up
+    * Key Press
+# ??? (Animations)
+# ??? (Forms)
+# Landing
+  * Review of What We've Learned
+  * (Need a last project that brings it all together)
+# Regular Maintainance
+  * Tools for Writing jQuery
+  * Tools and techniques for debugging
+# Flight School - Resources to Continue Learning
+  * Courses
+    * jQuery Air Series
+      * Understanding AJAX
+      * Testing your jQuery
+    * jQuery Jumpstart
+    * Bocoup Training
+  * Books
+    * jQuery Novice to Ninja
+    * JavaScript the Good Parts
+  * Videos
+    * Peepcode
 
 h2. Labs
 
@@ -36,6 +107,12 @@ h2. Labs
     h4. Part 3: Adding Logical Operators
   h3. Lab 2: Mapping
     h4. Part 1: 
+  h3. Lab 3: In the Event of Emergency
+    h4. Part 1:
+  h3. Lab 4: Your Cockpit
+    h4. Part 1:
+  h3. Lab 5: Landing
+  
     
   
 h2. To-Dos
