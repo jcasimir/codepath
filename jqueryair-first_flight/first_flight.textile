@@ -11,13 +11,6 @@ h2. Outline
       * Lines end in ;
       * Blocks start with { and end with }
     * Creating variables
-    * If/Else Conditions
-    * Calling Methods
-      * Method calls always use ()
-      * Methods always return a value
-      * Methods can be chained
-    * Grouping Instructions
-      * Functions are written like function(params){code}  <-- Necessary?
     * Simple data types
       * Strings
       * Integers
@@ -28,6 +21,14 @@ h2. Outline
           * For example, any number other than zero evaluates to true. Any string that's not empty is true. Any function, object, or array, even if they're empty, evaluate to true.
           * On the other side, there are several things that evaluate to false.  0 is false as is the empty string "". There are three special values that all evaluate to false: null, undefined, and NaN.
           * Overall these are sensible, the only one that might trip you up is that an empty array, [], is true!
+    * If/Else Conditions
+    * Calling Methods
+      * Method calls always use ()
+      * Methods always return a value
+      * Methods can be chained
+      * Using the return keyword
+    * Grouping Instructions
+      * Functions are written like function(params){code}  <-- Necessary?
     * Logical Operators
       * ==
       * !=
